@@ -1,0 +1,58 @@
+/* app global css */
+.text-theme {
+  color: white;
+}
+.bg-theme {
+  background: #2c373a;
+}
+
+.field-container-content {
+  padding: 8px 0;
+}
+
+.bg-color1 {
+  background: #042f4d
+}
+
+.text-color1 {
+  color: white;
+}
+.q-btn--outline.text-color1{
+  color: #042f4d !important;
+}
+
+.bg-color2 {
+  background: #F6525D;
+}
+
+.text-color2 {
+  color: white;
+}
+
+.q-btn--outline.text-color2{
+  color: #F6525D !important;
+}
+
+.bg-color3 {
+  background: #045156;
+
+}
+
+.text-color3 {
+  color: white;
+}
+
+.q-btn--outline.text-color3{
+  color: #045156 !important;
+}
+.q-btn--flat.text-color1 {
+  color: #042f4d !important;
+}
+
+.q-btn--flat.text-color2 {
+  color: #F6525D !important;
+}
+
+.q-btn--flat.text-color3 {
+  color: #045156 !important;
+}
